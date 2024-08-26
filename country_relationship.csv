@@ -1,0 +1,95 @@
+,source,target,value
+0,France,Russia,12
+1,Germany,Russia,26
+2,Bulgaria,Germany,6
+3,Bulgaria,Russia,6
+4,Germany,Italy,26
+5,Austria,Germany,11
+6,Germany,Spain,1
+7,France,Poland,11
+8,France,Germany,31
+9,Germany,Poland,28
+10,Poland,Soviet Union,8
+11,Estonia,Germany,5
+12,Estonia,Latvia,12
+13,Latvia,Lithuania,6
+14,Finland,Lithuania,12
+15,Finland,Germany,5
+16,Belgium,Poland,5
+17,Belgium,Netherlands,6
+18,Luxembourg,Netherlands,6
+19,Belgium,Luxembourg,4
+20,Belgium,Denmark,6
+21,Denmark,Norway,12
+22,Denmark,Sweden,5
+23,Germany,Sweden,6
+24,France,Italy,4
+25,Albania,Greece,12
+26,Greece,Ukraine,2
+27,Belarus,Ukraine,6
+28,Belarus,Libya,3
+29,Egypt,Libya,16
+30,Egypt,Iraq,5
+31,Germany,Japan,24
+32,Japan,Russia,16
+33,Germany,Morocco,2
+34,Algeria,Morocco,6
+35,Algeria,Italy,5
+36,China,Japan,27
+37,Japan,Thailand,6
+38,Singapore,Thailand,6
+39,Japan,Singapore,5
+40,Japan,Philippines,11
+41,Japan,Solomon Islands,9
+42,India,Japan,11
+43,China,France,6
+44,China,India,18
+45,India,Pakistan,18
+46,Israel,Pakistan,6
+47,Israel,South Africa,11
+48,Israel,Libya,5
+49,Iran,Libya,6
+50,Germany,Iran,3
+51,France,Japan,4
+52,Japan,United States,15
+53,India,Papua New Guinea,3
+54,Pakistan,Philippines,6
+55,Laos,Philippines,5
+56,Cambodia,Laos,6
+57,Cambodia,Kenya,6
+58,Ghana,Kenya,6
+59,Ghana,Seychelles,6
+60,Angola,Seychelles,5
+61,Angola,Mozambique,6
+62,Mozambique,Soviet Union,5
+63,Estonia,Lithuania,6
+64,Finland,Romania,6
+65,Romania,Soviet Union,6
+66,Albania,Soviet Union,5
+67,Albania,Bulgaria,6
+68,Bulgaria,Poland,6
+69,Poland,Romania,6
+70,Hungary,Romania,6
+71,Hungary,Mongolia,4
+72,China,Mongolia,6
+73,China,North Korea,6
+74,Cuba,North Korea,10
+75,North Korea,United States,6
+76,South Korea,United States,6
+77,Canada,South Korea,5
+78,Australia,Canada,6
+79,Australia,Vietnam,4
+80,United States,Vietnam,8
+81,Cambodia,United States,9
+82,Cuba,Vietnam,5
+83,Cuba,United States,5
+84,Russia,United States,2
+85,Finland,Russia,6
+86,Greece,Italy,4
+87,Italy,Japan,6
+88,Iran,United States,4
+89,Germany,United States,1
+90,Philippines,United States,6
+91,Romania,Russia,6
+92,China,Lebanon,3
+93,India,Singapore,5
